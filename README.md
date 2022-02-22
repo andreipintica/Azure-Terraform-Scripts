@@ -13,5 +13,5 @@ Version 2.0 of the Azure Provider introduces several new resources which superse
 
 azurerm_linux_virtual_machine
 azurerm_windows_virtual_machine
-[https://github.com/hashicorp/terraform-provider-azurerm/issues/2807](More details can be found in this issue) - however these resources will replace the existing azurerm_virtual_machine resource in the long-term.
+(https://github.com/hashicorp/terraform-provider-azurerm/issues/2807)[More details can be found in this issue] - however these resources will replace the existing azurerm_virtual_machine resource in the long-term.
 
