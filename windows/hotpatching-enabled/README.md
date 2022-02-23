@@ -2,8 +2,8 @@
 
 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://www.svgrepo.com/show/306846/terraform.svg)
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a)
 
 **This example provisions a Windows Virtual Machine with Automatic VM Guest Patching and Hotpatching Enabled.
 
