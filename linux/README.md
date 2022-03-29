@@ -1,3 +1,8 @@
+🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a)
+
 # Linux VMs Based Application Module
 This module creates multiple VM, with data disks and dependant resources
 - 1 Resource Group
