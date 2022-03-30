@@ -56,7 +56,6 @@ example:
 ```hcl
 
 module "vm" {
-  source = "github.com/nfrappart/azTerraVmLinuxAvZoneJsonPool?ref=v1.0.0"
   configFileName = "vm.json"
   rgName = "test"
   env = "prod"
